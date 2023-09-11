@@ -12,7 +12,7 @@ Buatlah tampilan form yang berisi nama, nim, dan tahun lahir pada file `ui/form_
 
 <h1>Hasil</h1>
 
-Form Data<br>
+<h2>Form Data<br></h2>
 <img src="screenshot/flutter_1.png"><br><br>
-Form Data<br>
+<h2>Tampil Data<br></h2>
 <img src="screenshot/flutter_2.png">
